@@ -68,6 +68,14 @@
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
+		<dependency>
+    <groupId>atu</groupId>
+    <artifactId>atu-test-recorder</artifactId>
+    <version>2.1</version>
+    <scope>test</scope>
+    <systemPath>${project.basedir}/libs/atu-test-recorder-2.1.jar</systemPath>
+</dependency>
+
 	</dependencies>
 
 	<build>
